@@ -1,4 +1,4 @@
-Algoritmo Comisiones_Venderdor
+Algoritmo Comisiones_Vendedor
 	// solicitud de datos
 	Escribir '¿Cuál es el suelto base del vendedor?';
 	Leer sdobase;
