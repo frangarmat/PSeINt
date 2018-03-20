@@ -1,3 +1,4 @@
+// Calcula las comisiones ganadas de un vendedor
 Algoritmo Comisiones_Vendedor
 	// solicitud de datos
 	Escribir '¿Cuál es el suelto base del vendedor?';
